@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 🎓 BS Software Engineering student at **International Islamic University Islamabad** (2022 - 2026)
-- 💼 1.5+ years of experience as a **MERN Stack Developer**
+- 💼 1.5 years of experience as a **MERN Stack Developer**
 - 📜 Certified **Meta Front-End Developer** & **Meta Back-End Developer**
 - 🧠 Exploring **Generative AI** and integrating it into real-world applications
 - 🌱 Currently building projects around e-commerce, real-time chat, and automation
@@ -48,14 +48,14 @@
 <table>
   <tr>
     <td>
-      <h4>🛒 E-Commerce Site</h4>
-      <p>Full-featured e-commerce platform with customer, seller, courier, and admin roles.</p>
-      <a href="https://github.com/AbdulSattarMajid/Ecommerce-App">🔗 Repository</a>
+      <h4>🛒 Sales Automation System</h4>
+      <p> allow companies to upload lead with details and the system will automatically write and send messages to linkdein accounts given in the leads and emails on given emails.</p>
+      <a href="https://github.com/Shabuabbasi/sales_Automation_System">🔗 Repository</a>
     </td>
     <td>
-      <h4>💬 Real Time Chat Application</h4>
-      <p>Real-time messaging app built with the MERN stack.</p>
-      <a href="https://github.com/AbdulSattarMajid/ChatApplication">🔗 Repository</a>
+      <h4>💬 Interview and job preparation platfomr </h4>
+      <p>A platform with three different backend microservices containing modules like resume analysis real interview simulation learning module community forum</p>
+      <a href="https://github.com/AbdulSattarMajid/Frontend_prepmate">🔗 Repository</a>
     </td>
   </tr>
   <tr>
