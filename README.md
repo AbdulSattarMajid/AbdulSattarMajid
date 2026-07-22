@@ -1,19 +1,19 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A072,100:6C63FF&height=220&section=header&text=AbdulSattar%20Majid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN-Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:2C5364,100:00C9A7&height=220&section=header&text=AbdulSattar%20Majid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN-Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+Stack;Crafting+AI-Powered+Applications;Automating+Workflows+that+Save+Time;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00C9A7&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+Stack;Crafting+AI-Powered+Applications;Automating+Workflows+that+Save+Time;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="mailto:malikabdulsattarmajid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-0F2027?style=for-the-badge&logo=gmail&logoColor=00C9A7" />
   </a>
   <a href="https://www.linkedin.com/in/abdulsattar-majid-949a97300">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0F2027?style=for-the-badge&logo=linkedin&logoColor=00C9A7" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=AbdulSattarMajid&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+  <img src="https://komarev.com/ghpvc/?username=AbdulSattarMajid&style=for-the-badge&color=0F2027&labelColor=0F2027&textColor=00C9A7" alt="Profile Views"/>
 </p>
 
 <br/>
@@ -32,23 +32,23 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-0F2027?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/TypeScript-0F2027?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+  <img src="https://img.shields.io/badge/React-0F2027?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-0F2027?style=for-the-badge&logo=node.js&logoColor=339933" />
+  <img src="https://img.shields.io/badge/Express.js-0F2027?style=for-the-badge&logo=express&logoColor=ffffff" />
+  <img src="https://img.shields.io/badge/MongoDB-0F2027?style=for-the-badge&logo=mongodb&logoColor=47A248" />
+  <img src="https://img.shields.io/badge/MySQL-0F2027?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+  <img src="https://img.shields.io/badge/Firebase-0F2027?style=for-the-badge&logo=firebase&logoColor=FFCA28" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-0F2027?style=for-the-badge&logo=tailwind-css&logoColor=38B2AC" />
+  <img src="https://img.shields.io/badge/Bootstrap-0F2027?style=for-the-badge&logo=bootstrap&logoColor=7952B3" />
+  <img src="https://img.shields.io/badge/HTML5-0F2027?style=for-the-badge&logo=html5&logoColor=E34F26" />
+  <img src="https://img.shields.io/badge/CSS3-0F2027?style=for-the-badge&logo=css3&logoColor=1572B6" />
+  <img src="https://img.shields.io/badge/Python-0F2027?style=for-the-badge&logo=python&logoColor=3776AB" />
+  <img src="https://img.shields.io/badge/Docker-0F2027?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Azure-0F2027?style=for-the-badge&logo=microsoftazure&logoColor=0078D4" />
+  <img src="https://img.shields.io/badge/Git-0F2027?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/Jest-0F2027?style=for-the-badge&logo=jest&logoColor=C21325" />
 </p>
 
 <br/>
@@ -70,11 +70,15 @@
   </tr>
   <tr>
     <td width="50%">
-      <h4>🌦️ Real Time Weather Application</h4>
-      <p>Live weather forecasting app built with React.js.</p>
-      <a href="https://github.com/AbdulSattarMajid/Weather-App-with-React-js">🔗 View Repository</a>
+      <h4>🌦️ Vehicle Price prediction Modeln</h4>
+      <p>build using deeplearning techniques.</p>
+      <a href="https://github.com/AbdulSattarMajid/Vehicle-Price-Prediction-Model">🔗 View Repository</a>
     </td>
-    <td width="50%"></td>
+    <td width="50%">
+      <h4>🛒 E-Commerce Site</h4>
+      <p>Full-featured e-commerce platform with customer, seller, courier, and admin accounts.</p>
+      <a href="https://github.com/AbdulSattarMajid/Ecommerce-App">🔗 View Repository</a>
+    </td>
   </tr>
 </table>
 
@@ -83,12 +87,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSattarMajid&show_icons=true&theme=radical&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSattarMajid&layout=compact&theme=radical&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=AbdulSattarMajid&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdulSattarMajid&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSattarMajid&theme=radical&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSattarMajid&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <br/>
@@ -102,5 +106,5 @@
 <br/>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F7A072&height=120&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9A7,50:2C5364,100:0F2027&height=120&section=footer" width="100%"/>
 </p>
