@@ -1,11 +1,22 @@
-<h1 align="center">Hi 👋, I'm AbdulSattar Majid</h1>
-<h3 align="center">MERN-Stack Developer | Frontend & Backend Certified by Meta | GenAI Enthusiast</h3>
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=F7A072&center=true&vCenter=true&width=600&lines=Building+with+the+MERN+Stack;Crafting+AI-Powered+Applications;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F7A072,100:6C63FF&height=220&section=header&text=AbdulSattar%20Majid&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=MERN-Stack%20Developer%20%7C%20GenAI%20Enthusiast&descAlignY=55&descAlign=50" width="100%"/>
 </p>
 
----
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=6C63FF&center=true&vCenter=true&width=650&lines=Building+with+the+MERN+Stack;Crafting+AI-Powered+Applications;Automating+Workflows+that+Save+Time;Turning+Ideas+Into+Real+Products" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:malikabdulsattarmajid@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/abdulsattar-majid-949a97300">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=AbdulSattarMajid&style=for-the-badge&color=6C63FF" alt="Profile Views"/>
+</p>
+
+<br/>
 
 ### 🚀 About Me
 
@@ -13,11 +24,10 @@
 - 💼 1.5 years of experience as a **MERN Stack Developer**
 - 📜 Certified **Meta Front-End Developer** & **Meta Back-End Developer**
 - 🧠 Exploring **Generative AI** and integrating it into real-world applications
-- 🌱 Currently building projects around e-commerce, real-time chat, and automation
-- 📫 Reach me at **malikabdulsattarmajid@gmail.com**
+- ⚙️ Currently building automation tools, interview-prep platforms, and e-commerce systems
 - 📍 Based in Islamabad, Pakistan
 
----
+<br/>
 
 ### 🛠️ Tech Stack
 
@@ -41,34 +51,34 @@
   <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" />
 </p>
 
----
+<br/>
 
 ### 📌 Featured Projects
 
 <table>
   <tr>
-    <td>
-      <h4>🛒 Sales Automation System</h4>
-      <p> allow companies to upload lead with details and the system will automatically write and send messages to linkdein accounts given in the leads and emails on given emails.</p>
-      <a href="https://github.com/Shabuabbasi/sales_Automation_System">🔗 Repository</a>
+    <td width="50%">
+      <h4>🤖 Sales Automation System</h4>
+      <p>Companies upload leads with contact details, and the system automatically writes and sends personalized outreach messages via LinkedIn and email.</p>
+      <a href="https://github.com/Shabuabbasi/sales_Automation_System">🔗 View Repository</a>
     </td>
-    <td>
-      <h4>💬 Interview and job preparation platfomr </h4>
-      <p>A platform with three different backend microservices containing modules like resume analysis real interview simulation learning module community forum</p>
-      <a href="https://github.com/AbdulSattarMajid/Frontend_prepmate">🔗 Repository</a>
+    <td width="50%">
+      <h4>🎯 Interview & Job Prep Platform</h4>
+      <p>Microservices-based platform with resume analysis, live interview simulation, a learning module, and a community forum.</p>
+      <a href="https://github.com/AbdulSattarMajid/Frontend_prepmate">🔗 View Repository</a>
     </td>
   </tr>
   <tr>
-    <td>
+    <td width="50%">
       <h4>🌦️ Real Time Weather Application</h4>
       <p>Live weather forecasting app built with React.js.</p>
-      <a href="https://github.com/AbdulSattarMajid/Weather-App-with-React-js">🔗 Repository</a>
+      <a href="https://github.com/AbdulSattarMajid/Weather-App-with-React-js">🔗 View Repository</a>
     </td>
-    <td></td>
+    <td width="50%"></td>
   </tr>
 </table>
 
----
+<br/>
 
 ### 📊 GitHub Stats
 
@@ -81,7 +91,7 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AbdulSattarMajid&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
----
+<br/>
 
 ### 🏆 Certifications
 
@@ -89,25 +99,8 @@
 - 🎖️ [Meta Back-End Developer Professional Certificate](https://www.credly.com/badges/8fe92fa1-23a4-4577-9458-5e7a5e0f6c1f/public_url)
 - 🎖️ Pak Angels Essential Generative AI Training
 
----
-
-### 🤝 Connect with Me
+<br/>
 
 <p align="center">
-  <a href="mailto:malikabdulsattarmajid@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/abdulsattar-majid-949a97300">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=F7A072&height=120&section=footer" />
-</p>
-
-<p align="center">
-  ⭐️ From <a href="https://github.com/AbdulSattarMajid">AbdulSattarMajid</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:F7A072&height=120&section=footer" width="100%"/>
 </p>
