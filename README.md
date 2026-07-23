@@ -20,7 +20,7 @@
 
 ### 🚀 About Me
 
-- 🎓 BS Software Engineering student at **International Islamic University Islamabad** (2022 - 2026)
+- 🎓 BS Software Engineer from **International Islamic University Islamabad** (2022 - 2026)
 - 💼 1.5 years of experience as a **MERN Stack Developer**
 - 📜 Certified **Meta Front-End Developer** & **Meta Back-End Developer**
 - 🧠 Exploring **Generative AI** and integrating it into real-world applications
